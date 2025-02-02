@@ -128,3 +128,16 @@ git push origin main
     <script src="script.js"></script>
 </body>
 </html>
+// Placeholder for future functionality
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Website Loaded!');
+});
+kebaputuzexu/
+│
+├── index.html          // Main HTML file
+├── styles.css          // CSS file for styling
+├── script.js           // JavaScript file for interactivity
+└── images/             // Folder for images
+    ├── kebab.jpg       // Image of kebab
+    ├── pizza.jpg       // Image of pizza
+    └── hero.jpg        // Background image for hero section
